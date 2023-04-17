@@ -1,0 +1,16 @@
+{
+  "name": "firsttry",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "s": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
